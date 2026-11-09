@@ -67,8 +67,3 @@ If you want to view or run any specific project locally:
 
 ## 📝 License
 This repository is open-source and intended solely to document learning progression. Project prompts and challenges originate from the [freeCodeCamp Curriculum](https://www.freecodecamp.org/learn).
-
-
-
-<h3>Introduction to JavaScript</h3>
-<p>JavaScript adds interactivity to a webpage</p>
